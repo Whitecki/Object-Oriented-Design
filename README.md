@@ -2,18 +2,18 @@ Repozytorium zawiera rozwiązania zadań laboratoryjnych dotyczących projektowa
 
 
 📄 Opis plików i zagadnień
-1️⃣ Projektowanie Obiektowe – Wzorce Strukturalne i Behawioralne
 
-📄 po_lab_dp_2.pdf
+
+7️⃣ Projektowanie Obiektowe – Wzorce Strukturalne i Behawioralne
+
 Zadania dotyczą implementacji wzorców projektowych:
 
     Adapter – Przystosowanie niekompatybilnych interfejsów.
     Dekorator – Dynamiczne rozszerzanie funkcjonalności obiektów.
     Command – Wzorzec umożliwiający obsługę operacji "Undo".
 
-2️⃣ Zaawansowane Wzorce Projektowe
+6️⃣ Zaawansowane Wzorce Projektowe
 
-📄 Wzorce projektowe_2.pdf
 Rozwiązania obejmują zastosowanie:
 
     Strategia – Elastyczna kalkulacja rabatów.
@@ -23,9 +23,8 @@ Rozwiązania obejmują zastosowanie:
     Template Method – Abstrakcyjne podejście do drukowania faktur.
     Composite – Hierarchiczna struktura kategorii towarów.
 
-3️⃣ Podstawowe Wzorce Konstrukcyjne
+5️⃣ Podstawowe Wzorce Konstrukcyjne
 
-📄 DesignPatterns.pdf
 Zadania z konstrukcyjnych wzorców projektowych:
 
     Builder – Tworzenie labiryntu w grze.
@@ -35,7 +34,6 @@ Zadania z konstrukcyjnych wzorców projektowych:
 
 4️⃣ Testy jednostkowe (TDD, BDD)
 
-📄 instrukcja.pdf (Laboratorium 5)
 Ćwiczenia z testowania oprogramowania:
 
     Tworzenie testów w JUnit5 i Mockito.
@@ -43,9 +41,8 @@ Zadania z konstrukcyjnych wzorców projektowych:
     Obsługa podatków, rabatów i historii zamówień.
     Weryfikacja poprawności za pomocą testów jednostkowych.
 
-5️⃣ Refaktoryzacja i poprawa kodu
+3️⃣ Refaktoryzacja i poprawa kodu
 
-📄 instrukcja.pdf (Laboratorium 4)
 Praktyczne ćwiczenia z refaktoryzacji:
 
     Poprawa czytelności kodu i struktury klas.
@@ -53,18 +50,16 @@ Praktyczne ćwiczenia z refaktoryzacji:
     Generalizacja i ujednolicenie klasy Person i Prisoner.
     Implementacja elastycznych warunków wyszukiwania.
 
-6️⃣ Rozbudowa istniejącej aplikacji – Sklep internetowy
+2️⃣ Rozbudowa istniejącej aplikacji – Sklep internetowy
 
-📄 instrukcja.pdf (Laboratorium 3)
 Zmiany w aplikacji zakupowej:
 
     Rozszerzenie panelu filtracji produktów.
     Obsługa nowych właściwości dla różnych kategorii.
     Implementacja GUI w Java Swing.
 
-7️⃣ Modelowanie Obiektowe – Karty CRC i UML
+1️⃣ Modelowanie Obiektowe – Karty CRC i UML
 
-📄 task.pdf
 Ćwiczenia z modelowania:
 
     Stworzenie modułu walki RPG w oparciu o diagram UML.
